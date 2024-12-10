@@ -1,0 +1,53 @@
+{
+  "draw_pile": [],
+  "game_piles": [
+    [
+      "3 diamonds"
+    ],
+    [
+      "null",
+      "9 diamonds"
+    ],
+    [
+      "null",
+      "null",
+      "4 spades"
+    ],
+    [
+      "null",
+      "null",
+      "null",
+      "Q diamonds"
+    ],
+    [
+      "null",
+      "null",
+      "null",
+      "null",
+      "10 spades"
+    ],
+    [
+      "null",
+      "null",
+      "null",
+      "null",
+      "null",
+      "J hearts"
+    ],
+    [
+      "null",
+      "null",
+      "null",
+      "null",
+      "null",
+      "null",
+      "8 clubs"
+    ]
+  ],
+  "discard_pile": [
+    "null",
+    "null",
+    "null",
+    "null"
+  ]
+}

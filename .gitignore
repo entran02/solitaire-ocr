@@ -1,7 +1,7 @@
 # Rust
-/target/
+rust/target/
 **/*.rs.bk
-Cargo.lock
+rust\nth-glider-443821-f4-f8d3ba6e5efa.json
 
 # Python
 
